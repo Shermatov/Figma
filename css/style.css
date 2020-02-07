@@ -114,9 +114,7 @@ header:before{
     margin-bottom: 70px;
 }
 
-.about__items{
 
-}
 .about__items-svg{
     border: 1px solid #4985FF;
     border-radius: 50px;
@@ -195,12 +193,11 @@ header:before{
     text-decoration-line: underline;
     font-weight: 500;
     color: #4985FF;
+    margin-top: 35px;
 
 }
 .img_testimoniols{
-    width: 500px;
-    height: 400px;
-
+    padding-left: 100px;
 }
 .border{
     border: 1px solid #E0E0E0;
@@ -210,6 +207,7 @@ header:before{
     color: #000000;
     float: right;
     margin-right: 40px;
+    margin-top: -7px;
 }
 .number_title{
     color: #999999;
@@ -287,7 +285,7 @@ header:before{
     font-weight: 500;
     font-size: 16px;
     text-decoration-line: underline;
-    margin-top:20px ;
+    margin-top:30px ;
 
 }
 .works_items{
@@ -324,7 +322,7 @@ header:before{
     border-radius: 30px;
     transition: 0.4s;
     margin-left: 466px;
-    margin-top: 30px;
+    margin-top: 60px;
 
 }
 .project_btn:hover{
@@ -451,9 +449,10 @@ header:before{
     text-align: center;
     color: #999999;
     margin: auto;
-     padding-top: 50px;
+    padding-top: 50px;
 
 }
+
 
 
 
