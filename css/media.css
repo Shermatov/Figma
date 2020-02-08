@@ -1,0 +1,199 @@
+@media (max-width: 1200px){
+
+}
+
+
+
+
+
+@media (max-width: 992px) {
+    .logo{
+        font-size: 18px;
+    }
+
+}
+
+
+
+
+
+
+@media (max-width: 798px) {
+    .logo {
+        font-size: 20px;
+    }
+
+    .about__items {
+
+    }
+
+    .mob_menu_button {
+        display: block;
+    }
+
+    .nav__item {
+        display: none;
+    }
+
+    .numeral {
+        margin-right: 80px;
+
+    }
+
+    .svg_1{
+        padding-left: 55px;
+    }
+    .about-btn{
+        margin-left: 50px;
+    }
+
+    .about-title{
+        font-size: 13px;
+    }
+    .about-description{
+        font-size:14px;
+    }
+    .hero__content-title{
+        font-size: 17px;
+    }
+    .testimoniols__title{
+        font-size: 23px;
+    }
+    .testimoniols__description{
+        font-size: 13px;
+    }
+    .link_{
+        font-size: 13px;
+    }
+    .img_testimoniols{
+        width: 485px;
+        height: 315px;
+        padding-right: 99px;
+        padding-top: 20px;
+    }
+    .list_testimoniols{
+        margin-top: 15px;
+    }
+    .vector_svg{
+        margin-left: 115px;
+
+    }
+    .numeral{
+        margin-right: 175px;
+
+    }
+
+    .number_title{
+        margin-left: 115px;
+        margin-bottom:-30px;
+    }
+    .works_title{
+        font-size: 20px;
+        margin-bottom: 58px;
+    }
+    .works_btn{
+        margin-right: 38px;
+        margin-top: -37px;
+    }
+
+    .icons_items{
+        display: flex;
+    }
+    .footer-title{
+        padding-top: 100px;
+    }
+    .video_img{
+        height: 600px;
+        width: 500px;
+    }
+
+}
+
+
+
+@media (max-width: 576px) {
+
+    .logo{
+        font-size: 17px;
+    }
+    .svg_1{
+        padding-left: 55px;
+    }
+    .about-btn{
+        margin-left: 50px;
+    }
+
+    .about-title{
+        font-size: 13px;
+    }
+    .about-description{
+        font-size:14px;
+    }
+    .hero__content-title{
+        font-size: 17px;
+    }
+    .testimoniols__title{
+        font-size: 23px;
+    }
+    .testimoniols__description{
+        font-size: 13px;
+    }
+    .link_{
+        font-size: 13px;
+    }
+    .img_testimoniols{
+        width: 485px;
+        height: 315px;
+        padding-right: 99px;
+        padding-top: 20px;
+    }
+    .list_testimoniols{
+        margin-top: 15px;
+    }
+    .vector_svg{
+        margin-left: 115px;
+
+    }
+    .numeral{
+        margin-right: 170px;
+
+    }
+
+    .number_title{
+        margin-left: 115px;
+        margin-bottom:-30px;
+        }
+    .works_title{
+        font-size: 20px;
+        margin-bottom: 58px;
+    }
+    .works_btn{
+        margin-right: 38px;
+        margin-top: -37px;
+    }
+
+    .icons_items{
+        display: flex;
+    }
+    .footer-title{
+        padding-top: 100px;
+    }
+    .video_img{
+        height: 500px;
+        width: 400px;
+    }
+}
+
+
+@media (max-width: 250px) {
+    .about-title {
+        font-size: 12px;
+    }
+
+    .about-description {
+        font-size: 13px;
+    }
+    .footer-title{
+        padding-top: 100px;
+    }
+}
