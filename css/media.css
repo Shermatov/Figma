@@ -110,8 +110,8 @@
         padding-top: 100px;
     }
     .video_img{
-        height: 600px;
-        width: 500px;
+        height: 350px;
+        width: 335px;
     }
     .cols{
         display: contents;
@@ -125,7 +125,7 @@
         margin-left: 45px;
     }
     .videos-img{
-        width: 345px;
+        width: 335px;
         height: 350px;
     }
     .videos_btn{
@@ -142,8 +142,12 @@
     .form-control{
         width: 190px;
     }
+    .works_people{
+        margin-left: -23px;
+    }
     .project_img{
         margin-bottom: 30px;
+        margin-left: 22px;
     }
 
 
@@ -157,6 +161,9 @@
         padding-top: 100px;
 
 }
+    .project_btn{
+        margin-left: 67px;
+    }
 
     .logo{
         font-size: 17px;
@@ -192,7 +199,7 @@
     }
     .img_testimoniols{
         width: 485px;
-        height: 315px;
+        height: 275px;
         padding-right: 99px;
         padding-top: 20px;
     }
@@ -204,7 +211,7 @@
 
     }
     .numeral{
-        margin-right: 170px;
+        margin-right: 127px;
 
     }
 
@@ -223,19 +230,22 @@
     }
     .work_link{
         color: #FFFFFF;
+        margin-bottom: 30px;
     }
     .work_number{
         color: #FFFFFF;
     }
     .icons_items{
         display: flex;
+        margin-left: -50px;
+        font-size: 12px;
     }
     .footer-title{
         padding-top: 100px;
     }
     .video_img{
-        height: 500px;
-        width: 400px;
+        height: 350px;
+        width: 335px;
     }
 
 }
