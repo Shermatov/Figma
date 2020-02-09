@@ -7,8 +7,11 @@
 
 
 @media (max-width: 992px) {
-    .logo{
+    .logo {
         font-size: 18px;
+    }
+    .works_btn{
+        margin-bottom: 58px;
     }
 
 }
@@ -38,6 +41,9 @@
     .numeral {
         margin-right: 80px;
 
+    }
+    .project_title{
+        padding-top: -100px;
     }
 
     .svg_1{
@@ -94,6 +100,7 @@
     .works_btn{
         margin-right: 38px;
         margin-top: -37px;
+        margin-bottom: 58px;
     }
 
     .icons_items{
@@ -106,21 +113,63 @@
         height: 600px;
         width: 500px;
     }
+    .cols{
+        display: contents;
+
+    }
+    .images{
+        padding-left: 42px;
+    }
+    .project_btn{
+        margin-top: 100px;
+        margin-left: 45px;
+    }
+    .videos-img{
+        width: 345px;
+        height: 350px;
+    }
+    .videos_btn{
+        width: 234px;
+        height: 90px;
+        font-size: 10px;
+        margin-top: -30px;
+    }
+    .videos_btn span{
+        height: 44px;
+        width: 44px;
+        padding-top: 4px;
+    }
+    .form-control{
+        width: 190px;
+    }
+    .project_img{
+        margin-bottom: 30px;
+    }
+
 
 }
 
 
 
 @media (max-width: 576px) {
+    .cols{
+        display: contents;
+        padding-top: 100px;
+
+}
 
     .logo{
         font-size: 17px;
+    }
+    .work__description{
+        text-align: center;
+        color: #FFFFFF;
     }
     .svg_1{
         padding-left: 55px;
     }
     .about-btn{
-        margin-left: 50px;
+        margin-left: 100px;
     }
 
     .about-title{
@@ -165,13 +214,19 @@
         }
     .works_title{
         font-size: 20px;
+        color: #FFFFFF;
         margin-bottom: 58px;
     }
     .works_btn{
         margin-right: 38px;
         margin-top: -37px;
     }
-
+    .work_link{
+        color: #FFFFFF;
+    }
+    .work_number{
+        color: #FFFFFF;
+    }
     .icons_items{
         display: flex;
     }
@@ -182,18 +237,42 @@
         height: 500px;
         width: 400px;
     }
+
 }
 
 
 @media (max-width: 250px) {
+    .cols{
+        display: contents;
+
+    }
     .about-title {
-        font-size: 12px;
+        font-size: 10px;
     }
 
     .about-description {
-        font-size: 13px;
+        font-size: 10px;
     }
     .footer-title{
         padding-top: 100px;
+    }
+    .works_title{
+        font-size: 15px;
+        color: #FFFFFF;
+        margin-bottom: 58px;
+    }
+    .works_btn{
+        margin-right: 38px;
+        margin-top: -37px;
+    }
+    .work_link{
+        color: #FFFFFF;
+    }
+    .work_link:hover{
+        color: #FFFFFF;
+
+    }
+    .work_number{
+        color: #FFFFFF;
     }
 }
