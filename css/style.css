@@ -165,8 +165,8 @@ header:before{
 
 }
 .about-btn:hover{
-    color: #4985FF;
-    background: #fff;
+    color: #fff;
+    background: #1148ff
 }
 
 /*####  ABOUT  ####*/
@@ -339,8 +339,8 @@ header:before{
 
 }
 .project_btn:hover{
-    color: #4985FF;
-    background: #fff;
+    color: #fff;
+    background: #1148ff
 }
 .project_description{
     font-size: 16px;
@@ -519,6 +519,10 @@ header:before{
 
 
 }
+.follow_btn:hover{
+    background: #3048ff;
+    color: #fff3cd;
+}
 .form_follow{
     padding-right: 180px;
     padding-top: 15px;
@@ -580,8 +584,16 @@ header:before{
     display: flex;
 
 }
+
+
 .fa{
     padding-right: 15px;
+}
+.svg_2{
+    width: 10px;
+    height: 10px;
+    margin-top: 6px;
+    color:#999999;
 }
 
 
